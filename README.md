@@ -128,7 +128,7 @@ This project is licensed under the MIT License.
 ## 📬 Contact
 
 For any questions or feedback, please contact:
-Name  : pranabeshsengupta441@gmail.com
+Mail   : pranabeshsengupta441@gmail.com
 GitHub: https://github.com/PranabeshSengupta
 
 ---
